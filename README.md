@@ -12,7 +12,6 @@ Clone the repository:
 git clone https://github.com/Vansh-Coder/tradies.git
 cd tradies
 
-Add your Google API key:
 Create a .env file in the root directory and add your Google API key (Places API):
 GOOGLE_API_KEY=your_api_key_here
 
