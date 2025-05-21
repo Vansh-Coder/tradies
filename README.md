@@ -7,12 +7,11 @@ TRADIES is a cross-platform social networking mobile application built with Reac
 Follow these steps to set up and run the project locally:
 
 Clone the repository:
-git clone <your-repo-url>
-cd <your-project-directory>
+git clone https://github.com/Vansh-Coder/tradies.git
+cd tradies
 
 Add your Google API key:
-Create a .env file in the root directory.
-Add the following line:
+Create a .env file in the root directory and add the following line:
 GOOGLE_API_KEY=your_api_key_here
 
 Install project dependencies (node modules):
