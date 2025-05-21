@@ -29,4 +29,4 @@ npm install
 npx expo run:ios
 ```
 
-## 📌 Note : Make sure you're on a Mac with Xcode installed and the necessary environment set up (such as npm) for iOS development.
+### 📌 Note : Make sure you're on a Mac with Xcode installed and the necessary environment set up (such as npm) for iOS development.
